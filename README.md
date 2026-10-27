@@ -117,7 +117,7 @@ Overall, the analysis revealed a clear gap between engagement and acquisition ef
 
 ### **9\. Links**
 
-[Marketing Analysis Dashboard]([https://public.tableau.com/app/profile/gracejihyunlee/viz/CapstoneProject-Marketing_17799722882720/Dashboard2](https://public.tableau.com/views/CapstoneProject-Marketing_17799722882720/MarketingCampaignPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[Marketing Analysis Dashboard](https://public.tableau.com/views/CapstoneProject-Marketing_17799722882720/MarketingCampaignPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 [Marketing Analysis Presentation](https://drive.google.com/file/d/1p0HcPBS30crFwp05ONmk3XNf8FHypg5e/view?usp=sharing)
 
